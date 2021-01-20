@@ -8,3 +8,7 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.video {
+    transform: rotateY(180deg);
+}
